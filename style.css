@@ -1,0 +1,16 @@
+.welcome{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10%;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.container-fluid{
+    background-color:chocolate;
+}
+.main{
+    height:100vh;
+    width:100vw;
+    background-image: url("./images/page_1.jpg");
+}
